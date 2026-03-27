@@ -5,7 +5,7 @@ pipeline {
 
         stage('Cleanup') {
             steps {
-                echo 'ls'
+                echo 'heloo'
             }
         }
 
